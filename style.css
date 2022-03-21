@@ -50,6 +50,8 @@ a:hover {
 
 #listasocial {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     list-style-type: none;
+    justify-content: center;
+    gap: 5px;
 }
