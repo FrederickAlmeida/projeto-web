@@ -6,8 +6,8 @@ body {
     font-size: 16px;
     font-family: sans-serif;
     text-align: center;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 35%;
+    margin-right: 35%;
     gap: 20px;
 
 }
@@ -17,15 +17,6 @@ body {
     border-width: 10px;
     border-style: solid;
     border-radius: 50%;
-    width: 25%;
-}
-
-#cinimg {
-    width: 50%;
-}
-
-#breakingbadimg {
-    width: 25%
 }
 
 .menu {
