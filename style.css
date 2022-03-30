@@ -17,6 +17,15 @@ body {
     border-width: 10px;
     border-style: solid;
     border-radius: 50%;
+    width: 25%;
+}
+
+#cinimg {
+    width: 50%;
+}
+
+#breakingbadimg {
+    width: 25%
 }
 
 .menu {
